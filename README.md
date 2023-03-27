@@ -1,4 +1,4 @@
-Hi, I’m Deniz Ünal. I am a second-year student at Bogazici University. I am studying Computer Engineering.
+Hi, I’m Deniz Ünal. I am a third-year student at Bogazici University. I am studying Computer Engineering.
 My linkedin proflle: https://www.linkedin.com/in/deniz-unal/
 
 <!---
